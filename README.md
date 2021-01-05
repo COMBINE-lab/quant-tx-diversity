@@ -12,9 +12,9 @@ Run the `prepare_results.sh` script to being the process.
   * gunzip >= 1.6
   * awk >= 4.1.3
   * paste >= 8.29
+  * shuf >= 8.29
   
 * pigz >= 2.3.4
-* shuf >= 8.29
 * ripgrep >= 0.9.0
 * GNU Parallel >= 20141022
 * gffread >= 0.9.8
