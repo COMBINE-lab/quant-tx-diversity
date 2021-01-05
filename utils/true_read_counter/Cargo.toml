@@ -1,0 +1,11 @@
+[package]
+name = "true_read_counter"
+version = "0.1.0"
+authors = ["Rob Patro <rob@newton>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+seq_io = {git="https://github.com/markschl/seq_io"}
+fasthash = "0.4.0"
