@@ -20,3 +20,4 @@ Run the `prepare_results.sh` script to being the process.
 * gffread >= 0.9.8
 * salmon >= 1.4.0
 * kallisto >= 0.46.2
+* rust (and cargo) >= 1.45.1
