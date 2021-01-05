@@ -18,6 +18,7 @@ Run the `prepare_results.sh` script to begin the process.
 * ripgrep >= 0.9.0
 * GNU Parallel >= 20141022
 * gffread >= 0.9.8
+* samtools >= 1.11
 * salmon >= 1.4.0
 * kallisto >= 0.46.2
 * rust (and cargo) >= 1.45.1
