@@ -3,7 +3,7 @@
 First, set the appropriate paths for the programs in the `quant_sal.sh`, `quant_kallisto.sh` and `make_indices.sh` scripts.
 Note that large amounts of data will be downloaded into subdirectories of this directory, so make sure substantial free-space is available (~500G).
 
-Run the `prepare_results.sh` script to being the process.
+Run the `prepare_results.sh` script to begin the process.
 
 ## dependencies
 
