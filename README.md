@@ -19,6 +19,6 @@ Run the `prepare_results.sh` script to begin the process.
 * GNU Parallel >= 20141022
 * gffread >= 0.9.8
 * samtools >= 1.11
-* salmon >= 1.4.0
-* kallisto >= 0.46.2
+* salmon >= 1.4.0 [version 1.4.0 was used in the note]
+* kallisto >= 0.46.2 [version 0.46.2 was used in the note]
 * rust (and cargo) >= 1.45.1
