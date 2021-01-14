@@ -5,6 +5,8 @@ Note that large amounts of data will be downloaded into subdirectories of this d
 
 Run the `prepare_results.sh` script to begin the process.
 
+The quantification estimates produced by the different methods and configurations, as well as the true read counts, can be directly obtained from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4437868.svg)](https://doi.org/10.5281/zenodo.4437868).
+
 ## dependencies
 
 * basic nix tools
