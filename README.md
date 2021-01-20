@@ -1,5 +1,9 @@
 # quant-tx-diversity
 
+This repository corresponds to the note [Accounting for fragments of unexpected origin improves transcript quantification in RNA-seq simulations focused on increased realism](https://www.biorxiv.org/content/10.1101/2021.01.17.426996v1), and contains scripts for reproducing the simulated reads from a reference and the CRAM files provided by Varabyou et al., and for indexing and quantifying these simulated data as evaluated in the manuscript.
+
+## Running the pipeline
+
 First, set the appropriate paths for the programs in the `quant_sal.sh`, `quant_kallisto.sh` and `make_indices.sh` scripts.
 Note that large amounts of data will be downloaded into subdirectories of this directory, so make sure substantial free-space is available (~500G).
 
